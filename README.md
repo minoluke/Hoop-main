@@ -29,19 +29,3 @@ After seeing the project open, run the project by either using **⌘R** (Command
 <input type="checkbox" disabled /> Add obstacles to block the ball from entering the hoop<br/>
 <input type="checkbox" disabled /> Add more ball textures<br/>
 <input type="checkbox" disabled /> Implement test case to cover the whole codebase
-
-## 🏅 Credits
-Hoop is inspired by [Dunk Shot](https://apps.apple.com/us/app/dunk-shot/id1301375510) which is the fun and enjoyable game to paly.
-> Hoop is just a hobby project to learn SpriteKit, so don't sue me for copying the idea. 🙏
-
-## ✍️ Author
-Scotti | [@dscyrescotti](https://twitter.com/dscyrescotti)
-<p>
-<a href="https://twitter.com/dscyrescotti">
-<img src="https://img.shields.io/twitter/follow/dscyrescotti.svg?style=social">
-</a>
-&nbsp;
-<a href="https://github.com/dscyrescotti">
-<img src="https://img.shields.io/github/followers/dscyrescotti.svg?style=social&label=Follow">
-</a>
-</p>
